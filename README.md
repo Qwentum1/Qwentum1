@@ -2,7 +2,7 @@
 
 # Qwentum1
 
-### Python · Discord Bots · Desktop Tools
+### Python · Discord Bots · Desktop Tools · Linux
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Developer;Discord+Bot+Builder;Desktop+Tool+Maker)](https://git.io/typing-svg)
 
